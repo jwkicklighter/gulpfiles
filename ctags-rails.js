@@ -7,6 +7,7 @@ gulp.task('ctags', function() {
     'app/**',
     'spec/**',
     'config/**',
+    'features/**',
     'fixtures/**',
     'public/**'
   ];
